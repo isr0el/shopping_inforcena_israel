@@ -48,3 +48,16 @@ table{
 th {
     color: black;
 }
+.btn-primary{
+    background-color: salmon
+}
+img {
+    height: 100px;
+        width: 100px;
+}
+body {
+    background: url("imagens/fundo.jpg") !important;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
